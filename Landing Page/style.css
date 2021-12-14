@@ -1,0 +1,38 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header{
+    padding: 10px;
+    position: fixed;
+    text-align: center; 
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    background-color: mediumslateblue;
+}
+
+footer{
+    text-align: center;
+    background-color: blueviolet;
+    position:fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+section{
+    text-align: center;
+}
+
+#contact-form{
+    background-color: aquamarine;
+    margin-bottom: 50px;
+}
+#welcome{
+    margin: auto;
+    margin-top: 135px;
+    height: 800px;
+    width: 800px;
+    border: 12px solid black;
+}
